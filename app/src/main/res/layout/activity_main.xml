@@ -32,7 +32,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginEnd="10dp"
             android:gravity="center"
-            android:text="ASWIN"
+            android:text="OWTHAM"
             android:textColor="@color/black"
             android:textSize="50sp" />
         <EditText
